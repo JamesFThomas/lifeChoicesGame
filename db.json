@@ -1,0 +1,41 @@
+ {
+   "user":[
+     {
+       "id": 1,
+       "name": "First Player",
+       "attributes":{
+        "age": 37,
+        "money": 0,
+        "health": 100
+       }
+     }
+   ],
+   "stories":[
+     {
+       "id": 1,
+       "title": "Getting A Job",
+       "points": [
+         {
+           "choices": 1,
+           "decisions":[],
+           "effects": []
+         },
+         {
+           "choices": 2,
+           "decisions":[],
+           "effects": []
+         },
+         {
+           "choices": 3,
+           "decisions":[],
+           "effects": []
+         },
+         {
+           "choices": 4,
+           "decisions":[],
+           "effects": []
+         }
+       ]
+     }
+   ]
+ }
